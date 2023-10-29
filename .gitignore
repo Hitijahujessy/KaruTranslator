@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.venv
+tts_maker/.idea
+tts_maker/wordlist_dieren.csv
+tts_maker/wordlist_huis.csv
+test.csv
+csv_files/wordlist_familie_vrienden.csv
+csv_files/wordlist_test.csv
+csv_files/huis.csv
