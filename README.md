@@ -1,7 +1,7 @@
 <h1 align="center">KaruTranslator</h1>
 
 <p align="center">
-  KaruTranslator is a simple CLI application that I have created to create wordlists for (Karu)[https://github.com/Hitijahujessy/karu-app] without spending too much time finding
+  KaruTranslator is a simple CLI application that I have created to create wordlists for [Karu](https://github.com/Hitijahujessy/karu-app) without spending too much time finding
   translations for the different languages. It also includes another simple application that creates text-to-speech .mp3 files for all
   of the translations.
 </p>
@@ -41,7 +41,7 @@ It's also possible to create text-to-speech files for the entire .csv file. To d
 to ```df = pd.read_csv('csv_files/your_wordlist_filename.csv')```. Run ```tts_maker/main.py``` and all of the text-to-speech files will be created and saved as .mp3 files in the ```tts_files```
 directory.
 
-### Not optimized
-The applications are not that optimized because they were created during the beginning stages of Karu app and I didn't know too much abouy Python programming at that time. Maybe I will update
+### Note
+The applications are not that optimized because they were created during the beginning stages of Karu app and I didn't know too much about Python programming at that time. Maybe I will update
 the apps sometime to make the process easier and faster, but it's not a priority of mine right now.
 
